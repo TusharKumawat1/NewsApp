@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Meta's 'Efficiency' Layoffs Take a Toll on Employee Productivity - NDTV",
+      "description": "Meta Platforms Inc. employees received news Wednesday of the final round of previously announced job cuts, which affected thousands of workers in the company's business departments.",
+      "url": "https://www.ndtv.com/world-news/meta-job-cuts-facebook-mark-zuckerburg-metas-efficiency-layoffs-take-a-toll-on-employee-productivity-4064237",
+      "urlToImage": "https://c.ndtvimg.com/2023-05/m24k7rio_meta-generic_625x300_25_May_23.jpg",
+      "publishedAt": "2023-05-25T02:00:43Z",
+      "content": "Meta, which owns Facebook, Instagram and WhatsApp, said the layoffs were necessary to improve efficiency\r\nMeta Platforms Inc. employees received news Wednesday of the final round of previously announ… [+3464 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Isha Trivedi",
+      "title": "Gland Pharma’s poor show in FY23 has shaken investor confidence. Can it reclaim lost ground? - Economic Times",
+      "description": "Given the consistent disappointments on the earnings front, investors are starting to worry if there is a structural issue with the business. The management has not been transparent in its communication and also did not give any guidance on revenue growth or …",
+      "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare/gland-pharmas-poor-show-in-fy23-has-shaken-investor-confidence-can-it-reclaim-lost-ground/primearticleshow/100483851.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-100484124,width-1070,height-580,imgsize-112520/photo.jpg",
+      "publishedAt": "2023-05-24T22:30:00Z",
+      "content": "SynopsisGiven the consistent disappointments on the earnings front, investors are starting to worry if there is a structural issue with the business. The management has not been transparent in its co… [+176 chars]"
+    }
+  ]
+}
